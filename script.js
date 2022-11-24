@@ -1,6 +1,6 @@
 var carta1 = {
   nome: "Bulbasauro",
-  imagem: "/batalha-de-cartas/imagens/bulbasaur.png",
+  imagem: "/imagens/bulbasaur.png",
   atributos: {
     ataque: 7,
     defesa: 8,
@@ -10,7 +10,7 @@ var carta1 = {
 var carta2 = {
   nome: "Pikachu",
   imagem:
-    "/batalha-de-cartas/imagens/pikachu.png",
+    "/imagens/pikachu.png",
   atributos: {
     ataque: 20,
     defesa: 15,
@@ -20,7 +20,7 @@ var carta2 = {
 var carta3 = {
   nome: "Charizard",
   imagem:
-    "/batalha-de-cartas/imagens/charizard.png",
+    "/imagens/charizard.png",
   atributos: {
     ataque: 25,
     defesa: 18,
